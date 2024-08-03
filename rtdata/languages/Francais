@@ -1,4 +1,5 @@
 #001 2008-03-01 Initial translation by Hombre
+#002 2024-08-03 Translation completed
 #100
 #101 @LANGUAGE_DISPLAY_NAME=Français
 
@@ -3023,115 +3024,119 @@ ZOOMPANEL_ZOOMFITSCREEN;Affiche l'image entière\nRaccourci: <b>Alt</b>-<b>f</b>
 ZOOMPANEL_ZOOMIN;Zoom Avant\nRaccourci: <b>+</b>
 ZOOMPANEL_ZOOMOUT;Zoom Arrière\nRaccourci: <b>-</b>
 
+!!!translated by thebrainfox44
+
+
+ERROR_MSG_METADATA_VALUE;Metadonées: Erreur en changeant %1 en %2
+EXIFFILTER_PATH;Chemin d'accès
+EXIFPANEL_ACTIVATE_ALL_HINT;Sélectionner tous les tags
+EXIFPANEL_ACTIVATE_NONE_HINT;Déselectionner tous les tags
+EXIFPANEL_BASIC_GROUP;Basique
+EXIFPANEL_VALUE_NOT_SHOWN;Pas visible
+FILEBROWSER_BROWSEPATHBUTTONHINT;Cliquer pour ouvrir le chemin d'accès spécifique, recharger le dossier et appliquer le mot-clef 'find'.
+FILEBROWSER_DELETEDIALOG_ALL;Voulez vous vraiment <b>définitivement</b> supprimer <b>%1</b> fichiers dans la corbeille?
+FILEBROWSER_DELETEDIALOG_SELECTED;Voulez vous vraiment <b>définitivement</b> supprimer <b>%1</b> fichiers séléctionnés?
+FILEBROWSER_DELETEDIALOG_SELECTEDINCLPROC;Voulez vous vraiment <b>définitivement</b> supprimer <b>%1</b> fichiers séléctionnés, y compris une version traitée en file d'attente?
+FILEBROWSER_EMPTYTRASHHINT;<b>Définitivement</b> supprimer tous les fichiers de la corbeille.
+FILEBROWSER_POPUPINSPECT;Inspecter
+FILEBROWSER_POPUPREMOVE;Supprimer définitivement
+FILEBROWSER_POPUPREMOVEINCLPROC;Supprimer définitivement, y compris une version traitée en file d'attente
+FILEBROWSER_POPUPSORTBY;Trier les fichiers
+FILEBROWSER_SHOWNOTTRASHHINT;Montrer seulement les fichiers qui ne sont pas dans la corbeille.
+FILEBROWSER_SHOWRECURSIVE;Afficher les images dans les sous-dossiers de manière récursive.
+FILECHOOSER_FILTER_EXECUTABLE;Fichiers executables
+GENERAL_DELETE_ALL;Tout supprimer
+GENERAL_EDIT;Editer
+GENERAL_HELP;Aide
+ENERAL_OTHER;Autre
+HISTOGRAM_TOOLTIP_CROSSHAIR;Montrer/Cacher le curseur indicateur.
+HISTOGRAM_TOOLTIP_SHOW_OPTIONS;basculer la visibilité des boutons d'options de champ.
+HISTOGRAM_TOOLTIP_TRACE_BRIGHTNESS;Ajuster le champ de luminosité.
+HISTOGRAM_TOOLTIP_TYPE_HISTOGRAM;Histograme
+HISTOGRAM_TOOLTIP_TYPE_HISTOGRAM_RAW;Histograme brut
+HISTOGRAM_TOOLTIP_TYPE_PARADE;Parade RVB
+HISTOGRAM_TOOLTIP_TYPE_VECTORSCOPE_HC;Vecteurscope Teinte-Chroma
+HISTOGRAM_TOOLTIP_TYPE_VECTORSCOPE_HS;Vecteurscope Teinte-Saturation
+HISTOGRAM_TOOLTIP_TYPE_WAVEFORM;Forme d'onde
+HISTORY_MSG_446;--unused--
+HISTORY_MSG_447;--unused--
+HISTORY_MSG_448;--unused--
+HISTORY_MSG_450;--unused--
+HISTORY_MSG_451;--unused--
+HISTORY_MSG_454;--unused--
+HISTORY_MSG_455;--unused--
+HISTORY_MSG_456;--unused--
+HISTORY_MSG_458;--unused--
+HISTORY_MSG_459;--unused--
+HISTORY_MSG_460;--unused--
+HISTORY_MSG_461;--unused--
+HISTORY_MSG_463;--unused--
+HISTORY_MSG_466;--unused--
+HISTORY_MSG_467;--unused--
+HISTORY_MSG_470;--unused--
+HISTORY_MSG_494;Accentuation à la Capture
+HISTORY_MSG_496;Zone Locale Supprimée
+HISTORY_MSG_497;Zone Locale Supprimée
+HISTORY_MSG_498;Local - Nom de la zone
+HISTORY_MSG_499;Local - Visibilité de la zone
+HISTORY_MSG_500;Local - Forme de la zone
+HISTORY_MSG_501;Local - méthode de la zone
+HISTORY_MSG_502;Local - SC - Méthode de forme
+HISTORY_MSG_503;Local - Zone - Droite
+HISTORY_MSG_504;Local - Zone - Gauche
+HISTORY_MSG_505;Local - Zone - Bas
+HISTORY_MSG_506;Local - Zone - Haut
+HISTORY_MSG_507;Local - Zone - Centre
+HISTORY_MSG_508;Local - Zone - Taille
+HISTORY_MSG_509;Local - Zone méthode de qualité
+HISTORY_MSG_510;Local - TG - Valeur de transition
+HISTORY_MSG_511;Local - SD - Seuil de champ ΔE
+HISTORY_MSG_512;Local - SD - Décroissance ΔE
+HISTORY_MSG_513;Local - Zone - Exclure - Champ
+HISTORY_MSG_514;Local - Structure de la zone
+HISTORY_MSG_515;Edition séléctive
+HISTORY_MSG_516;Local - Couleur et lumière
+HISTORY_MSG_517;Local - Activer super
+HISTORY_MSG_518;Local - Luminosité
+HISTORY_MSG_519;Local - Contraste
+HISTORY_MSG_520;Local - Chroma
+HISTORY_MSG_521;Local - Champ
+HISTORY_MSG_522;Local - Methode de courbe
+HISTORY_MSG_523;Local - Courbe LL
+HISTORY_MSG_524;Local - Courbe CC
+HISTORY_MSG_525;Local - Courbe LH
+HISTORY_MSG_526;Local - Courbe H
+HISTORY_MSG_527;Local - Couleurs Inverses
+HISTORY_MSG_528;Local - Exposition
+HISTORY_MSG_529;Local - Compensation Exp
+HISTORY_MSG_530;Local - Compression HL Exp
+HISTORY_MSG_531;Local - Seuil compression HL Exp
+HISTORY_MSG_532;Local - Niveau de noir Exp
+HISTORY_MSG_533;Local - Compression Ombres Exp
+HISTORY_MSG_534;Local - Chaud Froid
+HISTORY_MSG_535;Local - champ Exp
+HISTORY_MSG_536;Local - Courbe de contraste Exp
+HISTORY_MSG_537;Local - Vibrance
+HISTORY_MSG_538;Local - Vib Saturation
+HISTORY_MSG_539;Local - Vib Pastel
+HISTORY_MSG_540;Local - Vib Seuil
+HISTORY_MSG_541;Local - Vib Protégér les couleurs de peau
+HISTORY_MSG_542;Local - Vib éviter changements de couleur
+HISTORY_MSG_543;Local - Vib Lien
+HISTORY_MSG_544;Local - Vib Champ
+HISTORY_MSG_545;Local - Vib Courbe H
+HISTORY_MSG_546;Local - Flou and bruit
+HISTORY_MSG_547;Local - Rayon
+HISTORY_MSG_548;Local - Bruit
+HISTORY_MSG_549;Local - Champ de flou
+HISTORY_MSG_550;Local - Méthode de flou
+HISTORY_MSG_551;Local - Luminance de flou seulement
+HISTORY_MSG_552;Local - Mapping Tonal
+
 !!!!!!!!!!!!!!!!!!!!!!!!!
 ! Untranslated keys follow; remove the ! prefix after an entry is translated.
 !!!!!!!!!!!!!!!!!!!!!!!!!
 
-!ERROR_MSG_METADATA_VALUE;Metadata: error setting %1 to %2
-!EXIFFILTER_PATH;File path
-!EXIFPANEL_ACTIVATE_ALL_HINT;Select all tags
-!EXIFPANEL_ACTIVATE_NONE_HINT;Unselect all tags
-!EXIFPANEL_BASIC_GROUP;Basic
-!EXIFPANEL_VALUE_NOT_SHOWN;Not shown
-!FILEBROWSER_BROWSEPATHBUTTONHINT;Click to open specified path, reload folder and apply 'find' keywords.
-!FILEBROWSER_DELETEDIALOG_ALL;Are you sure you want to <b>permanently</b> delete all <b>%1</b> files in trash?
-!FILEBROWSER_DELETEDIALOG_SELECTED;Are you sure you want to <b>permanently</b> delete the selected <b>%1</b> files?
-!FILEBROWSER_DELETEDIALOG_SELECTEDINCLPROC;Are you sure you want to <b>permanently</b> delete the selected <b>%1</b> files, <b>including</b> a queue-processed version?
-!FILEBROWSER_EMPTYTRASHHINT;<b>Permanently</b> delete all files in trash.
-!FILEBROWSER_POPUPINSPECT;Inspect
-!FILEBROWSER_POPUPREMOVE;Delete permanently
-!FILEBROWSER_POPUPREMOVEINCLPROC;Delete permanently, including queue-processed version
-!FILEBROWSER_POPUPSORTBY;Sort Files
-!FILEBROWSER_SHOWNOTTRASHHINT;Show only images not in trash.
-!FILEBROWSER_SHOWRECURSIVE;Show images in sub-folders recursively.
-!FILECHOOSER_FILTER_EXECUTABLE;Executable files
-!GENERAL_DELETE_ALL;Delete all
-!GENERAL_EDIT;Edit
-!GENERAL_HELP;Help
-!GENERAL_OTHER;Other
-!HISTOGRAM_TOOLTIP_CROSSHAIR;Show/Hide indicator crosshair.
-!HISTOGRAM_TOOLTIP_SHOW_OPTIONS;Toggle visibility of the scope option buttons.
-!HISTOGRAM_TOOLTIP_TRACE_BRIGHTNESS;Adjust scope brightness.
-!HISTOGRAM_TOOLTIP_TYPE_HISTOGRAM;Histogram
-!HISTOGRAM_TOOLTIP_TYPE_HISTOGRAM_RAW;Raw Histogram
-!HISTOGRAM_TOOLTIP_TYPE_PARADE;RGB Parade
-!HISTOGRAM_TOOLTIP_TYPE_VECTORSCOPE_HC;Hue-Chroma Vectorscope
-!HISTOGRAM_TOOLTIP_TYPE_VECTORSCOPE_HS;Hue-Saturation Vectorscope
-!HISTOGRAM_TOOLTIP_TYPE_WAVEFORM;Waveform
-!HISTORY_MSG_446;--unused--
-!HISTORY_MSG_447;--unused--
-!HISTORY_MSG_448;--unused--
-!HISTORY_MSG_450;--unused--
-!HISTORY_MSG_451;--unused--
-!HISTORY_MSG_454;--unused--
-!HISTORY_MSG_455;--unused--
-!HISTORY_MSG_456;--unused--
-!HISTORY_MSG_458;--unused--
-!HISTORY_MSG_459;--unused--
-!HISTORY_MSG_460;--unused--
-!HISTORY_MSG_461;--unused--
-!HISTORY_MSG_463;--unused--
-!HISTORY_MSG_466;--unused--
-!HISTORY_MSG_467;--unused--
-!HISTORY_MSG_470;--unused--
-!HISTORY_MSG_494;Capture Sharpening
-!HISTORY_MSG_496;Local Spot deleted
-!HISTORY_MSG_497;Local Spot selected
-!HISTORY_MSG_498;Local - Spot name
-!HISTORY_MSG_499;Local - Spot visibility
-!HISTORY_MSG_500;Local - Spot shape
-!HISTORY_MSG_501;Local - Spot method
-!HISTORY_MSG_502;Local - SC - Shape method
-!HISTORY_MSG_503;Local - Spot - Right
-!HISTORY_MSG_504;Local - Spot - Left
-!HISTORY_MSG_505;Local - Spot - Bottom
-!HISTORY_MSG_506;Local - Spot - Top
-!HISTORY_MSG_507;Local - Spot - Center
-!HISTORY_MSG_508;Local - Spot - Size
-!HISTORY_MSG_509;Local - Spot quality method
-!HISTORY_MSG_510;Local - TG - Transition value
-!HISTORY_MSG_511;Local - SD - ΔE scope threshold
-!HISTORY_MSG_512;Local - SD - ΔE decay
-!HISTORY_MSG_513;Local - Spot - Excluding - Scope
-!HISTORY_MSG_514;Local - Spot structure
-!HISTORY_MSG_515;Selective Editing
-!HISTORY_MSG_516;Local - Color and light
-!HISTORY_MSG_517;Local - Enable super
-!HISTORY_MSG_518;Local - Lightness
-!HISTORY_MSG_519;Local - Contrast
-!HISTORY_MSG_520;Local - Chrominance
-!HISTORY_MSG_521;Local - Scope
-!HISTORY_MSG_522;Local - Curve method
-!HISTORY_MSG_523;Local - LL Curve
-!HISTORY_MSG_524;Local - CC curve
-!HISTORY_MSG_525;Local - LH Curve
-!HISTORY_MSG_526;Local - H curve
-!HISTORY_MSG_527;Local - Color Inverse
-!HISTORY_MSG_528;Local - Exposure
-!HISTORY_MSG_529;Local - Exp Compensation
-!HISTORY_MSG_530;Local - Exp Hlcompr
-!HISTORY_MSG_531;Local - Exp hlcomprthresh
-!HISTORY_MSG_532;Local - Exp black
-!HISTORY_MSG_533;Local - Exp Shcompr
-!HISTORY_MSG_534;Local - Warm Cool
-!HISTORY_MSG_535;Local - Exp Scope
-!HISTORY_MSG_536;Local - Exp Contrast curve
-!HISTORY_MSG_537;Local - Vibrance
-!HISTORY_MSG_538;Local - Vib Saturated
-!HISTORY_MSG_539;Local - Vib Pastel
-!HISTORY_MSG_540;Local - Vib Threshold
-!HISTORY_MSG_541;Local - Vib Protect skin tones
-!HISTORY_MSG_542;Local - Vib avoid colorshift
-!HISTORY_MSG_543;Local - Vib link
-!HISTORY_MSG_544;Local - Vib Scope
-!HISTORY_MSG_545;Local - Vib H curve
-!HISTORY_MSG_546;Local - Blur and noise
-!HISTORY_MSG_547;Local - Radius
-!HISTORY_MSG_548;Local - Noise
-!HISTORY_MSG_549;Local - Blur scope
-!HISTORY_MSG_550;Local - Blur method
-!HISTORY_MSG_551;Local - Blur Luminance only
-!HISTORY_MSG_552;Local - Tone mapping
 !HISTORY_MSG_553;Local - TM compression strength
 !HISTORY_MSG_554;Local - TM gamma
 !HISTORY_MSG_555;Local - TM edge stopping
